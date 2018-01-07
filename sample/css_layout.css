@@ -1,0 +1,82 @@
+
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	font-size: 13px; 
+	font-family: Arial, Helvetica, sans-serif; 
+	color: White;
+	background-color: #CFD7E2;
+	background-color: #E8E9DB;
+	
+}
+
+div#container
+{
+	 width:780px;
+	 margin:0 auto; 
+	 padding:0px;
+    text-align:left;
+	 background-color: White;
+	 
+	 
+}
+
+div#header
+{
+	text-align: left;
+	width: 100%;
+	background-color: Aqua;
+	height: 100px;
+}
+
+div#content
+{
+	float:left; 
+	width:780px; 
+	height: 500px;
+}
+
+div#sidebar
+{
+float:left;
+width:255px;  
+overflow: hidden;
+padding-left:10px;
+background-color: Lime;
+height: 300px;
+}
+
+div#sidebar2
+{
+float:right;
+width:500px;  
+overflow: hidden;
+background-color: Purple;
+height: 300px;
+}
+
+div#footer
+{
+	clear: both;
+	width:780px;
+	margin-top:0px;
+	text-align: center;
+	background-color: Teal;
+}
+
+div#container .bloccoPagineCms
+{
+	
+}
+
+
+.clear_tricks
+{
+	clear: both;
+	overflow: hidden;
+	height: 1px;
+}
+
+
